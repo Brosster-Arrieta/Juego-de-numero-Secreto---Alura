@@ -1,7 +1,7 @@
 let numeroSecreto = 0
 let numeroDeIntentos = 0;
 let listaNumeroSorteados = [];
-let numeroMaximo = 100;
+let numeroMaximo = 10;
 
 
 function asignarTextoElemento(elemento,texto) {
@@ -72,5 +72,6 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
+
 
 
